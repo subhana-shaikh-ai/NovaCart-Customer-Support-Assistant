@@ -17,6 +17,10 @@ The NovaCart Customer Support Assistant is designed to provide reliable response
 
 The project demonstrates how Retrieval-Augmented Generation (RAG) can be used to build a grounded customer-support application.
 
+## Demo
+
+![NovaCart Customer Support Chatbot](novacart-chatbot-demo.png)
+
 ## 🧠 How It Works
 
 ```text
