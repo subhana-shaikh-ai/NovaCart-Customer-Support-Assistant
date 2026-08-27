@@ -19,7 +19,7 @@ The project demonstrates how Retrieval-Augmented Generation (RAG) can be used to
 
 ## Demo
 
-![NovaCart Customer Support Assistant](novacart-chatbot-demo.png)
+![NovaCart Customer Support Assistant](NovaCart-chatbot-demo.png)
 
 ## 🧠 How It Works
 
